@@ -11,7 +11,7 @@
     ],
     "cars":[
         {
-            "Company":"Mini Cooper",
+            "name":"Mini Cooper",
             "model":"Mini2",
             "seats":"2",
             "price":"35",
@@ -57,7 +57,7 @@
             "trass":"Automatic"
         },
              {
-            "Company":"Mini Cooper",
+            "name":"Mini Cooper",
             "model":"Mini2",
             "seats":"2",
             "price":"50",
